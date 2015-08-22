@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCustomMakeManager
+Name=RF24SmartHome
